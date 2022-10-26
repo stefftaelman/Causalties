@@ -1,5 +1,6 @@
-using DataFrames, DrWatson, GLM, UnicodePlots
+using DrWatson
 @quickactivate "Causalties"
+using DataFrames, DrWatson, GLM, UnicodePlots
 include("../src/generate_data.jl")
 
 
