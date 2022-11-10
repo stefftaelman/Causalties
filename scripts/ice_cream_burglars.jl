@@ -9,7 +9,7 @@ include("../src/generate_data.jl")
 data = simulate_data(200)
 print(first(data, 5))
 
-# We can see that we have 1000 data points in total, each with information 
+# We can see that we have 200 data points in total, each with information 
 # on the temperature that week, the number of houses broken into, and the 
 # number of ice cream cones sold.
 
