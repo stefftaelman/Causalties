@@ -1,3 +1,6 @@
+###############################################################################
+#########= EXAMPLE ONE: causally querrying a machine learning model =##########
+###############################################################################
 using DrWatson
 @quickactivate "Causalties"
 using DataFrames, DrWatson, GLM, UnicodePlots
