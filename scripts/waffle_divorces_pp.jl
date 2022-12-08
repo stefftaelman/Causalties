@@ -113,3 +113,9 @@ coeftab_plot(   # I like this one better
 # Take a look at the variables' mean as estimated by our model. We see that,
 # for instance, MedianAgeMarriage (A) and Marriage (M) are very negatively 
 # associated and that the south and waffle house are very positively associated
+
+# How would you make predictions with this model?
+
+# How would you make interventions on this model?
+
+# How would you do counterfactual analysis with this model?
